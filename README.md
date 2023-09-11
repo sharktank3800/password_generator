@@ -1,6 +1,6 @@
 # Password_generator
 
-<!-- link to deployed here  -->
+[Password generator](https://sharktank3800.github.io/password_generator/)
 
 ## ***Description***
 
